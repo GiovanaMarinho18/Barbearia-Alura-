@@ -11,3 +11,6 @@ Oferecemos profissionais experientes e antenados às mudanças no mundo da moda.
 <mota charset"pt-br"
 <head>
 <title>BARBEARIA ALURA</title>
+</head>
+<body>
+
