@@ -7,7 +7,7 @@ Oferecemos profissionais experientes e antenados às mudanças no mundo da moda.
 </HTML>
 <mota charset"pt-br"
 <head>
-<title>BARBEARIA ALURA</title>
+<title> BARBEARIA ALURA </title>
 </head>
 <body>
 <header> 
