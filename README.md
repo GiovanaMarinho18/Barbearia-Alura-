@@ -1,4 +1,4 @@
-<!doctype HTML>
+<!DOCTYPE html>
 <h1>BARBEARIA ALURA</h1>
 Sobre a Barbearia Alura
 
@@ -9,9 +9,9 @@ Oferecemos profissionais experientes e antenados às mudanças no mundo da moda.
 </HTML>
 <mota charset"pt-br"
 <head>
-<title>BARBEARIA ALURA</title>
+    <title>BARBEARIA ALURA</title>
 
-  <link rel="stylesheet" href="reset.css">
-  <link rel="stylesheet" href="produtos.css">
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="produtos.css">
 </head> 
 <body>
