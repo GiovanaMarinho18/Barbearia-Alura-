@@ -8,5 +8,8 @@ Oferecemos profissionais experientes e antenados às mudanças no mundo da moda.
 <mota charset"pt-br"
 <head>
 <title>BARBEARIA ALURA</title>
-</head>
+
+  <link rel="stylesheet" href="reset.css">
+  <link rel="stylesheet" href="produtos.css">
+</head> 
 <body>
