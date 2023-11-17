@@ -8,23 +8,4 @@ Oferecemos profissionais experientes e antenados às mudanças no mundo da moda.
 </HTML>
 <mota charset"pt-br"
 <head>
-    <meta charset="UTF-8>
-    <title>Produtos - Barbearia Alura</title>
-        
-    <link rel="stylesheet" href="reset.css">
-    <link rel="stylesheet" href="produtos.css">
-</head> 
-<body>
-    <header> 
-        <h1><img src="logo.png"></h1>
-
-        <nav>
-            <ul>
-               <li><a herf="index.html">Home</a></li>
-               <li><a herf="produtos.html">Produtos/a></li>
-               <li><a herf="contato.html">Contato</a></li>
-           </ul>
-       </nav>
-   </header>
-</body>   
-</html>
+   
